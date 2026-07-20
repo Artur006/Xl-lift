@@ -16,7 +16,7 @@ This repository contains the compiled beta build only — no source code.
 
 👉 **[Download the free beta](../../releases/latest)** (export locked)
 
-👉 **[Get the full version (€25)](xllift.gumroad.com/l/snxel)** on Gumroad
+👉 **[Get the full version (€25)](https://xllift.gumroad.com/l/snxel)** on Gumroad
 
 | | Beta (free) | Full (€25) |
 |---|---|---|
